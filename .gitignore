@@ -2,3 +2,4 @@
 work/.ipynb_checkpoints/template-checkpoint.ipynb
 docs/*
 spark-submit/*
+work/data/imdb_master.csv
